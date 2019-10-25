@@ -1,8 +1,8 @@
-## Regularity In Random or Magic Highway of Triangles
+## Regularity In Random or Chaos Game
 
 
 
-Video [Triangles have a Magic Highway - Numberphile](https://www.youtube.com/watch?v=wVH4MS6v23U)
+Video [Chaos Game - Numberphile](https://www.youtube.com/watch?v=kbKtFN71Lfs)
 
 ### This is the pyhon code, if you wnat to try/experiment
 
